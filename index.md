@@ -1,27 +1,9 @@
-## Welcome to GitHub Pages
+## The Saltedroads Project
 
-You can use the [editor on GitHub](https://github.com/Laundry-KK/saltedroads/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Salted roads is a game powered by GoldSource. Imagine if the shovel guy from home alone made a video game in 1998. This is what came out...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+# GOLDSOURCE!
+GoldSource is the engine used in games such as Half-Life, Counter strike, and others. We used it because we can.
 
 [Link](url) and ![Image](src)
 ```
